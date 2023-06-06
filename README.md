@@ -1,16 +1,9 @@
 # shopping_list_app
 
-A new Flutter project.
+This is a simple shopping list application where i used Firebase realtime database with flutter. HTTP requests and savings are working properly as intended.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img src="https://github.com/RolandMarton/flutter_shopping_list_app/assets/88943189/f6c5fc09-2ff9-4afa-baa2-4673fbde30ed" width="30%" />
+  <img src="https://github.com/RolandMarton/flutter_shopping_list_app/assets/88943189/167cc646-ee15-4e9e-a71f-f05def08aba5" width="30%" />
+  <img src="https://github.com/RolandMarton/flutter_shopping_list_app/assets/88943189/3b26eb2e-d03b-48cb-805f-af980fd73a83" width="30%" />
+</div>
